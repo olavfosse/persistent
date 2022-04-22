@@ -1,2 +1,0 @@
-prelude = "prelude"
-extraCSS = ["prelude.css"]
