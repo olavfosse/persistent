@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"src.elv.sh/pkg/persistent/hash"
+	"olavfosse.no/persistent/hash"
 )
 
 const (
